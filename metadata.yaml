@@ -1,0 +1,38 @@
+_repo: The-Admiral-s-Caravan_24379
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Birch, Reginald Bathurst
+    aliases:
+    - Birch, Reginald B. (Reginald Bathurst)
+    - Birch, Reginald Bathhurst
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '26446'
+    url: http://www.gutenberg.org/2009/agents/26446
+covers:
+- cover_type: archival
+  image_path: 24379-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carryl, Charles E. (Charles Edward)
+    birthdate: 1841
+    deathdate: 1920
+    gutenberg_agent_id: '26445'
+    url: http://www.gutenberg.org/2009/agents/26445
+description: Wooden images and Noah's ark animals come to life in Wonderland. This
+  story first appeared in "St. Nicholas "magazine, December 1891-May 1892.
+gutenberg_issued: '2008-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Fairy tales'
+title: The Admiral's Caravan
+url: http://www.gutenberg.org/ebooks/24379
